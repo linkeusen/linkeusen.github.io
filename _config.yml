@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Wang Yusheng"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Eusen Wang"
 description              : &description "personal description"
 url                      : https://linkeusen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
