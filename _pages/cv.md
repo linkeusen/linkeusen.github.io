@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D  (expected...maybe)
+* M.Eng. in Shanghai, Shanghai University of Engineering Science, 2025
+* B.Eng. in Shandong, Shandong University of Technology, 2022
 
-Work experience
+Work experience(MADE UP...just for fun)
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -32,7 +32,7 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
+Skills(in the process of updating)
 ======
 * Skill 1
 * Skill 2
