@@ -14,6 +14,6 @@ Perhaps I should start with a brief introduction of myself😎
 ======
 I'm sure you'll find your way here and we'll be able to build a great relationship🌹.
 
-You can find my CV here first: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here first: [WYS's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 If you want to talk to me further： [Wechat](../images/wechat.jpg) 
