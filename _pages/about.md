@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "王雨生的一小步"
+title: "Eason Wang/王🌧️生的一小步"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi~,This is our first meeting，right?
+Hi~😄,This is our first meeting，right?
 
 emm... what do you want to know?
 ======
