@@ -9,10 +9,11 @@ redirect_from:
 
 Hi~😄,This is our first meeting，right?
 
-emm... what do you want to know?
+圆规正转... what do you want to know?
+
 ======
-I'm sorry, I don't think I've quite worked out what to say.
+I'm sure you'll find your way here and we'll be able to build a great relationship🌹.
 
-But you can find my CV here first: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here first: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
- [Wechat](../images/wechat.jpg) 
+If you want to talk to me further： [Wechat](../images/wechat.jpg) 
