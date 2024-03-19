@@ -9,7 +9,7 @@ redirect_from:
 
 Hi~😄,This is our first meeting，right?
 
-圆规正转... what do you want to know?
+Perhaps I should start with a brief introduction of myself😎
 
 ======
 I'm sure you'll find your way here and we'll be able to build a great relationship🌹.
