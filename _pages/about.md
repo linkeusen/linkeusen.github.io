@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "We need to get our heads round it!"
+title: "王雨生的一小步"
 author_profile: true
 redirect_from: 
   - /about/
