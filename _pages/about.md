@@ -1,4 +1,4 @@
-(https://github.com/linkeusen/linkeusen.github.io/assets/115453233/88262705-514d-4bd0-a667-3b7de5095493)---
+---
 permalink: /
 title: "Eason Wang/王🌧️生的一小步"
 author_profile: true
