@@ -33,6 +33,7 @@ So please, don't define me by any one thing, degree, or profession. In the scrip
 I'm sure you'll find your way here and we'll be able to build a great relationship🌹.
 
 If you want to introduce me to a job😄
-You can find my CV here first: [WYS's Curriculum Vitae(CN)](../assets/Curriculum_Vitae.pdf).[WYS's Curriculum Vitae(EN)](../assets/Curriculum_Vitae.pdf).                         
+You can find my CV here first: [WYS's Curriculum Vitae(CN)](../assets/Curriculum_Vitae.pdf).
+                               [WYS's Curriculum Vitae(EN)](../assets/Curriculum_Vitae.pdf).                          
 or
 If you want to talk to me further： [Wechat](../images/wechat.jpg) 
