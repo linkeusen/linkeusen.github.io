@@ -35,8 +35,8 @@ I'm sure you'll find your way here and we'll be able to build a great relationsh
 If you want to introduce me to a job😄
 You can find my CV here first:  
   
-[WYS's Curriculum Vitae(CN)](../assets/Curriculum_Vitae.pdf).  
-[WYS's Curriculum Vitae(EN)](../assets/Curriculum_Vitae.pdf).   
+[WYS's Curriculum Vitae(CN)](../assets/Curriculum_VitaeCN.pdf).  
+[WYS's Curriculum Vitae(EN)](../assets/Curriculum_VitaeEN.pdf).   
   
 or  
 If you want to talk to me further： [Wechat](../images/wechat.jpg) 
